@@ -1,0 +1,9 @@
+/*hoja de estilo de ejercicio n10*/
+
+.tablaDatos, td{
+    border: 1px solid royalblue;
+}
+
+td{
+    padding: 5px;
+}
